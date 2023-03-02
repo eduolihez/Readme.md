@@ -45,7 +45,7 @@ Describe how others can contribute to your project. Include any guidelines for c
 
 Include information about the project's license, and provide a link to the full license if applicable. For example:
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://chat.openai.com/LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/your_username/your_project/LICENSE.md) file for details.
 
 ## Acknowledgments
 
