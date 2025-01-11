@@ -42,11 +42,11 @@ Follow these steps to get a copy of the project up and use it in your own GitHub
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/eduolihez/readme_template.md.git
+   git clone https://github.com/eduolihez/readme_template.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd readme_template.md
+   cd readme_template
    ```
 3. Copy the Readme_template.md
 
